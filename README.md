@@ -21,7 +21,15 @@ BASIC
 - Manipulção de Strings
     - Interpolação de Variáveis
     - String Multiplas Linhas
-      
+
+COLLECTIONS
+  - Listas
+    - Acessando dados dentro da Lista
+    - Listas BI-dimensionais
+    - Fatiamento
+    - Iterando Listas
+    - Filtro de Listas
+    - Métodos da classe List
       
   
   
