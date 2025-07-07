@@ -30,7 +30,15 @@ COLLECTIONS
     - Iterando Listas
     - Filtro de Listas
     - Métodos da classe List
-      
   
+  - Tupla
+    - Acessando dados dentro da Tupla
+    - Tupla BI-dimensionais
+    - Iterando Tupla
+    - Métodos da classe Tuple
   
+  - Conjunto
+    - Acessando dados dentro do Conjunto
+    - Iterando Conjunto
+    - Métodos da clase Set
   
