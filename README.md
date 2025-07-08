@@ -40,5 +40,10 @@ COLLECTIONS
   - Conjunto
     - Acessando dados dentro do Conjunto
     - Iterando Conjunto
-    - Métodos da clase Set
+    - Métodos da classe Set
+
+  - Dicionario
+    - Acessando dados dentro do Dicionario
+    - Iterando Dicionario
+    - Métodos da classe Dict
   
