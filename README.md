@@ -46,4 +46,13 @@ COLLECTIONS
     - Acessando dados dentro do Dicionario
     - Iterando Dicionario
     - Métodos da classe Dict
+
+FUNCTIONS 
+  - Estrutura
+    - Argumentos Nomeados
+    - Parametros Especiais
+    - Objetos de Primeira Classe
+    - Escopo Local e Escopo Global
+
+
   
